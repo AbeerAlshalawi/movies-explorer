@@ -9,15 +9,15 @@ A movie app made with Flutter, Firebase, and [TMDB API](https://developer.themov
 - Add movies to favotites or watchlist
 
 ## Tech Stack
-- **Flutter:** Used for building the front-end.
+- **Flutter:** Used for the front-end.
 - **Firebase Authentication:** Handles user authentication.
 - **Cloud Firestore:** Stores account data including movies in favorites and watchlist.
 - **TMDB API:** Provides the movie data consumed by the app.
 - **Riverpod:** Manages state and handles API calls.
 
-# Installation
+## Installation
 1. Clone this repository
-   ```
+   ``` git
   git clone https://github.com/AbeerAlshalawi/movie-app.git
   ``` 
 3. Get your API key from [TMDB](https://developer.themoviedb.org/reference/intro/getting-started) and add it to this line in lib/src/core/api.dart
