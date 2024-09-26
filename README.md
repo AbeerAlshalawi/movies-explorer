@@ -2,6 +2,11 @@
 
 A movie app made with Flutter, Firebase, and [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started).
 
+## Screenshots
+<img src="screenshots/welcome.png" width="250" /> <img src="screenshots/login.png" width="250" /> <img src="screenshots/sign up.png" width="250" />
+<img src="screenshots/home.png" width="250" /> <img src="screenshots/trending.png" width="250" /> <img src="screenshots/details.png" width="250" />
+<img src="screenshots/account.png" width="250" /> <img src="screenshots/watchlist.png" width="250" />
+
 ## Features
 - Authenticate with email or a Google account
 - Browse trending, popular, and movies currently playing in theatres
