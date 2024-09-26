@@ -17,11 +17,7 @@ A movie app made with Flutter, Firebase, and [TMDB API](https://developer.themov
 
 ## Installation
 1. Clone this repository
-   ``` git
-  git clone https://github.com/AbeerAlshalawi/movie-app.git
-  ``` 
-3. Get your API key from [TMDB](https://developer.themoviedb.org/reference/intro/getting-started) and add it to this line in lib/src/core/api.dart
-   ```
-   final String _apiKey = 'YOUR_API_KEY';
-  ```
+   ```git clone https://github.com/AbeerAlshalawi/movie-app.git``` 
+2. Get your API key from [TMDB](https://developer.themoviedb.org/reference/intro/getting-started) and add it to this line in lib/src/core/api.dart
+   ```final String _apiKey = 'YOUR_API_KEY';```
 3. Create a Firebase project and configure it to use Firebase Authentication and Firestore Database
