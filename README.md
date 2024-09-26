@@ -3,9 +3,9 @@
 A movie app made with Flutter, Firebase, and [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started).
 
 ## Screenshots
-<img src="screenshots/welcome.png" width="250" /> <img src="screenshots/login.png" width="250" /> <img src="screenshots/sign up.png" width="250" />
-<img src="screenshots/home.png" width="250" /> <img src="screenshots/trending.png" width="250" /> <img src="screenshots/details.png" width="250" />
-<img src="screenshots/account.png" width="250" /> <img src="screenshots/watchlist.png" width="250" />
+<img src="screenshots/welcome.png" width="260" /> <img src="screenshots/login.png" width="260" /> <img src="screenshots/sign up.png" width="260" />
+<img src="screenshots/home.png" width="260" /> <img src="screenshots/trending.png" width="260" /> <img src="screenshots/details.png" width="260" />
+<img src="screenshots/account.png" width="260" /> <img src="screenshots/watchlist.png" width="260" />
 
 ## Features
 - Authenticate with email or a Google account
@@ -16,7 +16,7 @@ A movie app made with Flutter, Firebase, and [TMDB API](https://developer.themov
 ## Tech Stack
 - **Flutter:** Used for the front-end.
 - **Firebase Authentication:** Handles user authentication.
-- **Cloud Firestore:** Stores account data including movies in favorites and watchlist.
+- **Cloud Firestore:** Stores account data including favorites and watchlist.
 - **TMDB API:** Provides the movie data consumed by the app.
 - **Riverpod:** Manages state and handles API calls.
 
