@@ -1,11 +1,8 @@
-# Movie App
+# Movies Explorer
 
-A movie app made with Flutter, Firebase, and [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started).
+A movie discovery app made with Flutter, Firebase, and [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started).
 
-## Screenshots
-<img src="screenshots/welcome.png" width="260" /> <img src="screenshots/login.png" width="260" /> <img src="screenshots/sign up.png" width="260" />
-<img src="screenshots/home.png" width="260" /> <img src="screenshots/trending.png" width="260" /> <img src="screenshots/details.png" width="260" />
-<img src="screenshots/account.png" width="260" /> <img src="screenshots/watchlist.png" width="260" />
+<img src="screenshots/movies-explorer.png"/>
 
 ## Features
 - Authenticate with email or a Google account
